@@ -8,14 +8,14 @@ import {
   AiFillGithub,
   AiFillLinkedin,
 } from 'react-icons/ai'
-import restFulApi from '@public/images/rest-api.png'
-import NodeJs from '@public/images/NodeJs.png'
-import web1 from '@public/images/web1.png'
-import web2 from '@public/images/web2.png'
-import web3 from '@public/images/web3.png'
-import web4 from '@public/images/web4.png'
-import web5 from '@public/images/web5.png'
-import web6 from '@public/images/web6.png'
+import restFulApi from '@/public/images/rest-api.png'
+import NodeJs from '@/public/images/NodeJs.png'
+import web1 from '@/public/images/web1.png'
+import web2 from '@/public/images/web2.png'
+import web3 from '@/public/images/web3.png'
+import web4 from '@/public/images/web4.png'
+import web5 from '@/public/images/web5.png'
+import web6 from '@/public/images/web6.png'
 
 const Portfolio = () => {
   const [isDarkMode, setIsDarkMode] = useState(true)
