@@ -74,8 +74,8 @@ const Portfolio = () => {
                         dark:text-gray-200
                         md:max-w-sm md:mx-auto md:text-lg"
             >
-              Freelancer providing services for programming needs, join me down
-              below.
+              Freelancer providing services for Designing and programming needs,
+              join me down below.
             </p>
             <div
               className="flex justify-center gap-16 py-3 text-3xl
